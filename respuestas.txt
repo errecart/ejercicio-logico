@@ -1,0 +1,11 @@
+1-Abordar el problema
+    -En el momento que emepece con el ejercicio lo primero de todo fue identificar que elemente e sintaxis tenia que usar, desde el pirncipio lo esencial era el uso de las condicionales y iteraciones.
+    -Desde ese punto era simulacro de prueba y error para ver que tenia que usar por cada parte del codigo.
+
+2-Estrategia Usada
+    -primero creee un for para que revise todo el array.
+    -segundo separe por condicional ifelse todas las condiciones que ese numero tenia que tener de los que no.
+    -en el caso de que se encuentre el numero indicado se pushea al nuevo array y se muestra en pantalla usando DOM.
+
+3-Conjunto cuando no cumple
+    -En el caso en el que el conjunto no cumple con la condicion, siempre hay q pensar en las diferenetes maneras en el que se puede abordar el problema o una parte del mismo, teniendo mas de un caso en mente.
